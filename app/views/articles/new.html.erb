@@ -1,0 +1,29 @@
+<style>
+    body {
+        background-color: linen;
+    }
+
+    h1 {
+        color: maroon;
+        text-align: center;
+    }
+
+    html { 
+        text-align: center;
+    }
+</style>
+
+<h1>New Article</h1>
+
+<br>
+<hr> 
+<br>
+
+<%= render "form", article: @article %>
+
+<br> <hr> <br>
+
+<button>
+<%= link_to "Back to Home", articles_path %>
+</button>
+    
