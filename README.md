@@ -9,4 +9,5 @@ I used HTML and CSS to make the website more appealing to look at.
 --------------------------------------------------------------------------------------------------------------------
 
 In order to run the application, you need to follow the first handful of steps indicated on the link given above.
+
 My application was hosted locally on http://localhost:3000/
